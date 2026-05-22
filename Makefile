@@ -1,5 +1,5 @@
 IMAGE_NAME = eda_tools_builder_img
-OUTPUT_HOST_DIR? = ~/eda_tools
+OUTPUT_HOST_DIR ?= ~/eda_tools
 
 VERILATOR_VERSIONS?="v5.048"
 VERIBLE_VERSIONS?="v0.0-4053-g89d4d98a"
